@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS , MaterialUI**
 
-- 👨‍💻 All of my projects are available at [https://azeemkhan-portfolio.netlify.app/](https://azeemkhan-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at https://azeem-khan-portfolio.netlify.app/
 
 - 💬 Ask me about **ReactJS , CP , DSA**
 
